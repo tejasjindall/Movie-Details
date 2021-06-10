@@ -1,0 +1,94 @@
+{
+    "movies":[
+        {
+            "id": 1,
+            "title": "Mortal Combat",
+            "year" : 2021,
+            "Genre": "action",
+            "Director" : "Simon McQuoid",
+            "rating" : 6,
+            "background":"https://wallpapercave.com/wp/wp8664008.jpg",
+            "poster" : "https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg",
+            "description": "Hunted by the fearsome warrior Sub-Zero, MMA fighter Cole Young finds sanctuary at the temple of Lord Raiden. Training with experienced fighters Liu Kang, Kung Lao and the rogue mercenary Kano, Cole prepares to stand with Earth's greatest champions to take on the enemies from Outworld in a high-stakes battle for the universe."
+
+        },
+        {
+            "id": 2,
+            "title": "Army of the dead",
+            "year" : 2021,
+            "Genre": "action",
+            "Director" : "Zack Snyder",
+            "poster" : "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Army_of_the_Dead_%282021_film%29.png/220px-Army_of_the_Dead_%282021_film%29.png",
+            "rating" : 8,
+            "background":"https://cdn1-www.superherohype.com/assets/uploads/2021/04/army-of-the-dead-featured.jpg",
+            "description":"Army of the Dead is a 2021 American zombie heist film directed by Zack Snyder from a screenplay he co-wrote with Shay Hatten and Joby Harold, based on a story he also created. The film features an ensemble cast consisting of Dave Bautista, Ella Purnell, Omari Hardwick, Ana de la Reguera, Theo Rossi, Matthias Schweighöfer, Nora Arnezeder, Hiroyuki Sanada, Tig Notaro, Raúl Castillo, Huma Qureshi, and Garret Dillahunt. It follows a group of mercenaries who plan a Las Vegas casino heist amid a zombie apocalypse."
+        },
+        {
+            "id": 3,
+            "title": "Master",
+            "year" : 2021,
+            "Genre": "action",
+            "Director" : "Lokesh Kanagaraj",
+            "poster" : "https://1847884116.rsc.cdn77.org/tamil/home/b93f0da293f7034f8d15aad569804bfc.jpg",
+            "rating" : 7,
+            "background":"https://wallpaperaccess.com/full/2576151.jpg",
+            "description": "Master is a 2021 Indian Tamil-language action thriller film written and directed by Lokesh Kanagaraj. The film was produced by Xavier Britto, under his maiden production house XB Film Creators. The film stars Vijay and Vijay Sethupathi while Malavika Mohanan, Arjun Das, Andrea Jeremiah and Shanthanu Bhagyaraj play supporting roles. It revolves around an alcoholic professor, J. D. (Vijay), who takes a three-month teaching job in a juvenile home, which is controlled by the nefarious Bhavani (Sethupathi)."
+        },
+        {
+            "id": 4,
+            "title": "Zack Snyder's Justice League",
+            "year" : 2021,
+            "Genre": "action",
+            "Director" : "Zack Snyder",
+            "poster" : "https://m.media-amazon.com/images/M/MV5BYjI3NDg0ZTEtMDEwYS00YWMyLThjYjktMTNlM2NmYjc1OGRiXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+            "rating" : 8,
+            "background":"https://media.gq-magazine.co.uk/photos/605335edb72c6dcbd4f9b897/master/pass/18032021_JL_HP_.jpg",
+            "description":"Bruce Wayne and Diana Prince try to bring the metahumans of Earth together after the death of Clark Kent. Meanwhile, Darkseid sends Steppenwolf to Earth with a vast army to subjugate humans."
+        },
+        {
+            "id": 5,
+            "title": "Tenet",
+            "year" : 2021,
+            "Genre": "action",
+            "Director" : "Christopher Nolan",
+            "poster" : "https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+            "rating" : 7,
+            "background":"https://variety.com/wp-content/uploads/2020/08/tenet.jpg?w=1000",
+            "description":"Tenet is a 2020 science fiction action thriller film written and directed by Christopher Nolan, who produced it with Emma Thomas. A co-production between the United Kingdom and United States, it stars John David Washington, Robert Pattinson, Elizabeth Debicki, Dimple Kapadia, Michael Caine, and Kenneth Branagh. The film follows a secret agent who learns to manipulate the flow of time to prevent an attack from the future that threatens to annihilate the present world."
+        },
+        {
+            "id": 6,
+            "title": "Joker",
+            "year" : 2019,
+            "Genre": "action",
+            "Director" : "Todd Phillips",
+            "poster" : "https://i.ytimg.com/vi/LiDDlaJYep8/movieposter_en.jpg",
+            "rating" : 9.5,
+            "background":"https://c4.wallpaperflare.com/wallpaper/570/702/346/joaquin-phoenix-joker-batman-joker-2019-movie-dark-hd-wallpaper-preview.jpg",
+            "description":"Joker is a 2019 American psychological thriller film directed and produced by Todd Phillips, who co-wrote the screenplay with Scott Silver. The film, based on DC Comics characters, stars Joaquin Phoenix as the Joker and provides a possible origin story for the character. Set in 1981, it follows Arthur Fleck, a failed clown and stand-up comedian whose descent into insanity and nihilism inspires a violent counter-cultural revolution against the wealthy in a decaying Gotham City. Robert De Niro, Zazie Beetz, Frances Conroy, Brett Cullen, Glenn Fleshler, Bill Camp, Shea Whigham, and Marc Maron appear in supporting roles."
+        },
+        {
+            "id": 7,
+            "title": "A quiet place",
+            "year" : 2021,
+            "Genre": "action",
+            "Director" : "John Krasinski",
+            "poster" : "https://upload.wikimedia.org/wikipedia/en/0/02/A_Quiet_Place_Part_II.jpg",
+            "rating" : 6,
+            "background":"https://i.redd.it/qhojf8w5cr541.jpg",
+            "description":"A Quiet Place is a 2018 American horror film directed by John Krasinski and written by Bryan Woods, Scott Beck and Krasinski from a story conceived by Woods and Beck. The plot revolves around a father (Krasinski) and a mother (Emily Blunt) who struggle to survive and raise their children (Millicent Simmonds and Noah Jupe) in a post-apocalyptic world inhabited by blind monsters with an acute sense of hearing."
+        },
+        {
+            "id": 8,
+            "title": "Venom",
+            "year" : 2019,
+            "Genre": "action",
+            "Director" : " Ruben Fleischer",
+            "poster" : "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/venom_onesheet_1400x2100_rated.png?itok=0tO6umMg",
+            "rating" : 7.2,
+            "background":"https://i.pinimg.com/originals/21/47/53/214753a3964652786f47197ce855af50.jpg",
+            "description":"Venom is a 2018 American superhero film featuring the Marvel Comics character of the same name, produced by Columbia Pictures in association with Marvel[5] and Tencent Pictures. Distributed by Sony Pictures Releasing, it is the first film in the Sony Pictures Universe of Marvel Characters. Directed by Ruben Fleischer from a screenplay by Jeff Pinkner, Scott Rosenberg, and Kelly Marcel, it stars Tom Hardy as Eddie Brock / Venom, alongside Michelle Williams, Riz Ahmed, Scott Haze, and Reid Scott. "
+        }
+        
+    ]
+}
